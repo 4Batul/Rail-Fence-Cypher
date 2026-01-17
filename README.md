@@ -38,4 +38,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ```
 
-Would you like me to customize it further, such as including your specific program details or code snippets?
