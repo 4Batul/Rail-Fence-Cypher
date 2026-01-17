@@ -31,7 +31,7 @@ Follow the prompts to enter your message and choose the number of rails for encr
 
 ## Demo Screenshot
 
-*Gui.png*
+![GUI](gui.png)
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
